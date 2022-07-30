@@ -1,7 +1,0 @@
-List of MAC Adress
-
-Name		MAC		User
-OPPO-A7		885a0662f36f	Bu Lis
-kiwkiw		c28fb9b249fb	Nahya?
-OPPO-A3s	489507949b0d	Ghani?
-OPPO-Reno5-F	e646d9f11aae	Titik?
